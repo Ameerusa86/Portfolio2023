@@ -75,7 +75,7 @@ const Contact = () => {
                 name="contact-form"
                 method="POST"
                 data-netlify="true"
-                action="POST"
+                action={process.env.REACT_APP_GET_FORM}
               >
                 <input type="hidden" name="form-name" value="contact-form" />
                 <div className="form-top">
