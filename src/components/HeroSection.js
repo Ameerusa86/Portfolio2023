@@ -96,7 +96,7 @@ const HeroSection = ({ nav, handleNav }) => {
         className="hero-content"
       >
         <p className="hero-intro">
-          <span>Ameer</span> <span>Alhasnawi</span>
+          <span>AMEER</span> <span>ALHASNAWI</span>
         </p>
         <p className="hero-desc">
           I'm a <span className="hero-desc-sub">Web Developer.</span>
