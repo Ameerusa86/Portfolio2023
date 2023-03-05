@@ -28,13 +28,13 @@ export const WorkData = [
       "//github.com/Ameerusa86/Challenge-2---Space-tourism-multi-page-website/tree/master/space-frontend-mentor",
     site: "//space-tourism2023.netlify.app/",
   },
-  // {
-  //   title: "Instablog",
-  //   desc: "A blog website where you can post your ideas and view those of others",
-  //   tech: ["React.js", "Firebase"],
-  //   gitlink: "//www.github.com/Pappyjay23/instablog",
-  //   site: "//instablog-v1.netlify.app/",
-  // },
+  {
+    title: "Resturant",
+    desc: "A creative restaurant website.",
+    tech: ["React.js", "CSS"],
+    gitlink: "//github.com/Ameerusa86/resturant-using-reactjs.git",
+    site: "//resturant2023.netlify.app/",
+  },
   // {
   //   title: "Todo App",
   //   desc: "A todo list web app",
