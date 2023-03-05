@@ -7,12 +7,12 @@ import {
   FaReact,
   FaSass,
   FaYarn,
-  FaFigma,
+  // FaFigma,
 } from "react-icons/fa";
 import { DiJavascript1 } from "react-icons/di";
 import { VscJson } from "react-icons/vsc";
 import {
-  SiAdobephotoshop,
+  // SiAdobephotoshop,
   SiTailwindcss,
   SiNextdotjs,
   SiTypescript,
