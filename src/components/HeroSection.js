@@ -109,7 +109,7 @@ const HeroSection = ({ nav, handleNav }) => {
       >
         <a
           href="Ameer Alhasnawi CV.pdf"
-          download="Ameer Alhasnawi CV"
+          download="Ameer Alhasnawi CV.pdf"
           className="hero-contact"
         >
           Download CV <BiDownload className="cv-icon" />
