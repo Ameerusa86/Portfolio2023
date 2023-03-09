@@ -35,13 +35,13 @@ export const WorkData = [
     gitlink: "//github.com/Ameerusa86/resturant-using-reactjs.git",
     site: "//resturant2023.netlify.app/",
   },
-  // {
-  //   title: "Todo App",
-  //   desc: "A todo list web app",
-  //   tech: ["React.js", "Css", "PWAs"],
-  //   gitlink: "//www.github.com/Pappyjay23/todo-list",
-  //   site: "//todo-list-v0.netlify.app",
-  // },
+  {
+    title: "Rock, Paper, Scissors",
+    desc: "Rock, Paper, Scissors Game",
+    tech: ["HTML", "CSS", "Javascript"],
+    gitlink: "//github.com/Ameerusa86/rock-paper-scissors-master.git",
+    site: "//rock-paper-scissors2023.netlify.app/",
+  },
   // {
   //   title: "Onixx Digital",
   //   desc: "A website for a company that helps with project and site management for the best optimization",
