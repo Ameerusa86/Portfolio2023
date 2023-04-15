@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from "react";
-import { BrowserRouter as Router } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "../styles/App.css";
 import { motion } from "framer-motion";
 import HomePage from "../pages/HomePage";
+import Projects from "../components/Projects";
 
 function App() {
   // States
@@ -42,7 +43,10 @@ function App() {
   ) : (
     <div className="App">
       <Router>
-        <HomePage />
+        <Routes>
+          <Route path="/" element={<HomePage />} />
+          <Route path="/projects" element={<Projects />} />
+        </Routes>
       </Router>
     </div>
   );

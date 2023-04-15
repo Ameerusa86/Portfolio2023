@@ -27,9 +27,11 @@ const Works = () => {
             <p className="heading-sub-text">I build real value</p>
             <p className="heading-text">Works</p>
           </motion.div>
-          <button>
-            <b>More Porjects</b>
-          </button>
+          <Link to="/projects">
+            <button>
+              <b>More Projects</b>
+            </button>
+          </Link>
           <motion.div
             className="works-box"
             initial={{ opacity: 0 }}
