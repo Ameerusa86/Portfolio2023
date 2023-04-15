@@ -1,7 +1,7 @@
 export const WorkData = [
   {
     title: "Cinema World",
-    desc: "A cretive movie movie app that use TMDB API.",
+    desc: "A creative movie movie app that use TMDB API.",
     tech: ["React.js", "TailwindCss", "APIs", "Axios", "Context API"],
     gitlink: "//github.com/Ameerusa86/movieworld.git",
     site: "//cinemaworld2023.netlify.app/",

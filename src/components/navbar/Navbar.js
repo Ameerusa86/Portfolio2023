@@ -134,7 +134,7 @@ const Navbar = ({ nav, handleNav }) => {
             >
               <BiBookContent className="mid-icon" />
               <li className="mid-link" onClick={handleNav}>
-                Works
+                Projects
               </li>
             </Link>
             <Link

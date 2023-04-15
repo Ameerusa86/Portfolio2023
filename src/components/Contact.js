@@ -62,7 +62,7 @@ const Contact = () => {
                   to="//mailto:ameer.usa1986@gmail.com"
                   target="_blank"
                 >
-                  Email: ameer.usa1986@gmail.com
+                  Email: ameer.hasan.dev@gmail.com
                 </Link>
               </div>
             </motion.div>
