@@ -59,7 +59,7 @@ const Contact = () => {
 
                 <Link
                   className="hello-links"
-                  to="//mailto:ameer.usa1986@gmail.com"
+                  to="//mailto:ameer.hasan.dev@gmail.com"
                   target="_blank"
                 >
                   Email: ameer.hasan.dev@gmail.com
