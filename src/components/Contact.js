@@ -109,7 +109,7 @@ const Contact = () => {
                       type="text"
                       name="message"
                       id="message"
-                      placeholder="Hi, I think I need you to work on this particular product. Reach out as soon as you can"
+                      placeholder="Hello, Please leave me a message if your are interested in my work and I will get back to you as soon as possible."
                       required
                     ></textarea>
                   </div>
