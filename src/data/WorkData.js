@@ -8,7 +8,7 @@ export const WorkData = [
   },
   {
     title: "World Countries Flags",
-    desc: "A we p app that show the world countries flags with the use of API.",
+    desc: "The world countries flags with the use of API.",
     tech: ["React.js", "Css", "APIs", "Axios", "Bootstrap"],
     gitlink: "//github.com/Ameerusa86/REST-API-Countries-Flags-Info.git",
     site: "//countries-rest-api-2023.netlify.app/",
@@ -36,7 +36,7 @@ export const WorkData = [
     site: "//resturant2023.netlify.app/",
   },
   {
-    title: "Rock, Paper, Scissors",
+    title: "Rock, Paper, Scissors Game",
     desc: "Rock, Paper, Scissors Game",
     tech: ["HTML", "CSS", "Javascript"],
     gitlink: "//github.com/Ameerusa86/rock-paper-scissors-master.git",

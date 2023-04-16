@@ -5,10 +5,12 @@ export const ProjectsData = [
     tech: ["React.js", "TailwindCss", "APIs", "Axios", "Context API"],
     gitlink: "//github.com/Ameerusa86/movieworld.git",
     site: "//cinemaworld2023.netlify.app/",
+    images:
+      "https://github.com/Ameerusa86/movieworld/raw/master/src/Assests/images/sceenshot.png",
   },
   {
     title: "World Countries Flags",
-    desc: "A we p app that show the world countries flags with the use of API.",
+    desc: "The world countries flags with the use of API.",
     tech: ["React.js", "Css", "APIs", "Axios", "Bootstrap"],
     gitlink: "//github.com/Ameerusa86/REST-API-Countries-Flags-Info.git",
     site: "//countries-rest-api-2023.netlify.app/",
@@ -36,19 +38,20 @@ export const ProjectsData = [
     site: "//resturant2023.netlify.app/",
   },
   {
-    title: "Rock, Paper, Scissors",
+    title: "Rock, Paper, Scissors Game",
     desc: "Rock, Paper, Scissors Game",
     tech: ["HTML", "CSS", "Javascript"],
     gitlink: "//github.com/Ameerusa86/rock-paper-scissors-master.git",
     site: "//rock-paper-scissors2023.netlify.app/",
   },
-  // {
-  //   title: "Onixx Digital",
-  //   desc: "A website for a company that helps with project and site management for the best optimization",
-  //   tech: ["React.js", "Styled-Components"],
-  //   gitlink: "//www.github.com/Pappyjay23/megapod",
-  //   site: "//onixx-digital.netlify.app/",
-  // },
+  {
+    title: "Yoga",
+    desc: "Front end web app for Yoga workout.",
+    tech: ["HTML", "CSS", "Javascript"],
+    gitlink: "//github.com/Ameerusa86/Yoga.git",
+    site: "//yoga-html-css-js.netlify.app/#",
+    images: "/images/projects/yoga.png",
+  },
   // {
   //   title: "Megapod",
   //   desc: "A site hosting podcasts",

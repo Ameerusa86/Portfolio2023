@@ -18,7 +18,7 @@ const Projects = () => {
   return (
     <>
       <div className="projects" id="projects">
-        <div className="container">
+        <div className="projects_container">
           <motion.div
             initial={{ opacity: 0 }}
             whileInView={fade}
@@ -38,20 +38,20 @@ const Projects = () => {
             initial={{ opacity: 0 }}
             whileInView={fade}
           >
-            {ProjectsData.map((w, index) => {
+            {ProjectsData.map((p, index) => {
               return (
                 <div className="myCard" key={index}>
                   <div className="innerCard">
                     <div className="frontSide">
-                      <h1 className="title">{w.title}</h1>
+                      <h1 className="title">{p.title}</h1>
                     </div>
                     <div className="backSide">
-                      <p className="back_title">{w.tech}</p>
+                      <p className="back_title">{p.desc}</p>
                       <div className="icon_container">
-                        <Link to={w.gitlink}>
-                          <AiFillGithub className="icon" />
+                        <Link className="icon code" to={p.gitlink}>
+                          <AiFillGithub />
                         </Link>
-                        <Link className="icon" to={w.site}>
+                        <Link className="icon demo" to={p.site}>
                           <SiNetlify />
                         </Link>
                       </div>

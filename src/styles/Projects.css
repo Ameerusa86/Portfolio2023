@@ -1,26 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=DynaPuff&family=Fjalla+One&display=swap");
+
 .projects {
   width: 100%;
-  height: 100vh;
+  height: 100%;
   background-color: var(--section-bgd);
+}
+
+.projects_container {
+  width: 100vw;
+  height: 100%;
+  padding: 3rem;
 }
 .myCard {
   background-color: transparent;
   /* width: 190px;
   height: 254px; */
-  width: 260px;
-  height: 190px;
+  width: 360px;
+  height: 500px;
   perspective: 1000px;
 }
 
 .title {
-  font-size: 1.25rem;
-  font-weight: 900;
+  font-size: 2rem;
+  font-weight: 800;
   text-align: center;
   margin: 0;
+  padding: 1rem;
+  /* position: absolute; */
+  font-family: "Fjalla One", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  text-shadow: 1px 5px 5px rgba(0, 0, 0, 0.5);
 }
 
 .back_title {
-  font-size: 0.5rem;
+  font-size: 1rem;
+  padding: 1rem;
 }
 
 .innerCard {
@@ -53,6 +68,7 @@
   color: white;
   box-shadow: 0 0 0.3em rgba(255, 255, 255, 0.5);
   font-weight: 700;
+  overflow: hidden;
 }
 
 .frontSide,
@@ -101,4 +117,29 @@
 
 .icon:hover {
   transform: scale(1.25);
+  transition: 0.3s ease-in-out;
+}
+
+.demo:hover::after {
+  content: "Demo";
+  font-size: 15px;
+  display: flex;
+  transition: 0.5s ease-in-out;
+}
+
+.code:hover::after {
+  content: "Code";
+  font-size: 15px;
+  display: flex;
+  transition: 0.5s ease-in-out;
+}
+
+img {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+.tech {
+  margin: 1rem;
 }
