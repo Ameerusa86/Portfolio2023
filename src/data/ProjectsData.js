@@ -52,13 +52,13 @@ export const ProjectsData = [
     site: "//yoga-html-css-js.netlify.app/#",
     images: "/images/projects/yoga.png",
   },
-  // {
-  //   title: "Megapod",
-  //   desc: "A site hosting podcasts",
-  //   tech: ["React.js", "Styled-Components", "Css"],
-  //   gitlink: "//www.github.com/Pappyjay23/megapod",
-  //   site: "//megapod-vp.netlify.app",
-  // },
+  {
+    title: "Food Blog",
+    desc: "Food Blog website using React JS",
+    tech: ["React.js", "Bootstrap", "CSS"],
+    gitlink: "//github.com/Ameerusa86/Food-Blog.git",
+    site: "//food-blog2023.netlify.app/",
+  },
   // {
   //   title: "Lux Fitness",
   //   desc: "A web app depicting a gym, it's features and plans",
