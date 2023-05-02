@@ -44,7 +44,7 @@ const Projects = () => {
                   <div className="innerCard">
                     <div className="frontSide">
                       <h1 className="title">{p.title}</h1>
-                      <img src={p.images} />
+                      <img src={p.images} alt={p.title} />
                     </div>
                     <div className="backSide">
                       <p className="back_title">{p.desc}</p>
