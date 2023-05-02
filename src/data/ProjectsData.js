@@ -14,6 +14,8 @@ export const ProjectsData = [
     tech: ["React.js", "Css", "APIs", "Axios", "Bootstrap"],
     gitlink: "//github.com/Ameerusa86/REST-API-Countries-Flags-Info.git",
     site: "//countries-rest-api-2023.netlify.app/",
+    images:
+      "https://user-images.githubusercontent.com/46317379/235668511-6f64e3a0-9fdf-45dc-b368-c9e704487da7.png",
   },
   {
     title: "E-Commerce",
@@ -21,6 +23,8 @@ export const ProjectsData = [
     tech: ["React.js", "NodeJS", "APIs", "TailwindCss", "Strapi"],
     gitlink: "//github.com/Ameerusa86/E-Commerce2/tree/master/E-Commerce",
     site: "//e-commerce-shopping2023.netlify.app/",
+    images:
+      "https://github.com/Ameerusa86/E-Commerce2/raw/master/E-Commerce/src/images/screenshot-.png",
   },
   {
     title: "Space Tourism",
@@ -29,6 +33,8 @@ export const ProjectsData = [
     gitlink:
       "//github.com/Ameerusa86/Challenge-2---Space-tourism-multi-page-website/tree/master/space-frontend-mentor",
     site: "//space-tourism2023.netlify.app/",
+    images:
+      "https://user-images.githubusercontent.com/46317379/235669053-9533d9e3-c7ce-4fbf-9acb-6efe0d09c276.png",
   },
   {
     title: "Resturant",
@@ -36,6 +42,8 @@ export const ProjectsData = [
     tech: ["React.js", "CSS"],
     gitlink: "//github.com/Ameerusa86/resturant-using-reactjs.git",
     site: "//resturant2023.netlify.app/",
+    images:
+      "https://user-images.githubusercontent.com/46317379/235670914-fd1a7b47-6d80-4a13-b105-b510494516aa.png",
   },
   {
     title: "Rock, Paper, Scissors Game",
@@ -43,6 +51,8 @@ export const ProjectsData = [
     tech: ["HTML", "CSS", "Javascript"],
     gitlink: "//github.com/Ameerusa86/rock-paper-scissors-master.git",
     site: "//rock-paper-scissors2023.netlify.app/",
+    images:
+      "https://user-images.githubusercontent.com/46317379/235670409-c3dabd92-0da6-4dc1-9635-d021e51dd9c9.png",
   },
   {
     title: "Yoga",
@@ -50,7 +60,7 @@ export const ProjectsData = [
     tech: ["HTML", "CSS", "Javascript"],
     gitlink: "//github.com/Ameerusa86/Yoga.git",
     site: "//yoga-html-css-js.netlify.app/#",
-    images: "/images/projects/yoga.png",
+    images: "https://github.com/Ameerusa86/Yoga/raw/master/preview.png",
   },
   {
     title: "Food Blog",
@@ -58,6 +68,8 @@ export const ProjectsData = [
     tech: ["React.js", "Bootstrap", "CSS"],
     gitlink: "//github.com/Ameerusa86/Food-Blog.git",
     site: "//food-blog2023.netlify.app/",
+    images:
+      "https://user-images.githubusercontent.com/46317379/235662369-688520f1-9d91-44e2-be06-186ff3093729.png",
   },
   // {
   //   title: "Lux Fitness",

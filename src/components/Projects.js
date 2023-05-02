@@ -25,12 +25,12 @@ const Projects = () => {
             viewport={{ once: true }}
             className="heading"
           >
-            <p className="heading-sub-text">Fontend and FullStack</p>
+            <p className="heading-sub-text">Frontend and FullStack</p>
             <p className="heading-text">PROJECTS</p>
           </motion.div>
           <Link to="/">
-            <button>
-              <b>Back to Home</b>
+            <button className="btn">
+              <b>Home Page</b>
             </button>
           </Link>
           <motion.div
@@ -44,9 +44,11 @@ const Projects = () => {
                   <div className="innerCard">
                     <div className="frontSide">
                       <h1 className="title">{p.title}</h1>
+                      <img src={p.images} />
                     </div>
                     <div className="backSide">
                       <p className="back_title">{p.desc}</p>
+
                       <div className="icon_container">
                         <Link className="icon code" to={p.gitlink}>
                           <AiFillGithub />

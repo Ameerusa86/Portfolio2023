@@ -28,7 +28,7 @@ const Works = () => {
             <p className="heading-text">Works</p>
           </motion.div>
           <Link to="/projects">
-            <button>
+            <button className="btn">
               <b>More Projects</b>
             </button>
           </Link>
