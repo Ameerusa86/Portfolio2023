@@ -77,5 +77,7 @@ export const ProjectsData = [
     tech: ["Html", "Css", "JS", "GSAP"],
     gitlink: "//github.com/Ameerusa86/movies-nextjs.git",
     site: "//movies-nextjs-xi.vercel.app/",
+    images:
+      "https://github.com/Ameerusa86/movies-nextjs/assets/46317379/b5de0cfd-2f41-4f9f-b779-29c3eb991b46",
   },
 ];
