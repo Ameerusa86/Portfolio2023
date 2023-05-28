@@ -71,11 +71,11 @@ export const ProjectsData = [
     images:
       "https://user-images.githubusercontent.com/46317379/235662369-688520f1-9d91-44e2-be06-186ff3093729.png",
   },
-  // {
-  //   title: "Lux Fitness",
-  //   desc: "A web app depicting a gym, it's features and plans",
-  //   tech: ["Html", "Css", "JS", "GSAP"],
-  //   gitlink: "//www.github.com/Pappyjay23/Lux-Fitness-Gym",
-  //   site: "//lux-fitness-gym.netlify.app",
-  // },
+  {
+    title: "Cinema Universe",
+    desc: "a creative movie movie app that use TMDB API. Built using NextJS",
+    tech: ["Html", "Css", "JS", "GSAP"],
+    gitlink: "//github.com/Ameerusa86/movies-nextjs.git",
+    site: "//movies-nextjs-xi.vercel.app/",
+  },
 ];
