@@ -80,4 +80,13 @@ export const ProjectsData = [
     images:
       "https://github.com/Ameerusa86/movies-nextjs/assets/46317379/b5de0cfd-2f41-4f9f-b779-29c3eb991b46",
   },
+  {
+    title: "Modern Nike E-Commerce",
+    desc: "Nike e-commerce website using React JS, TailwindCss, Redux, Redux-ToolKit",
+    tech: ["React JS", "Tailwind CSS", "Redux"],
+    gitlink: "//github.com/Ameerusa86/Modern-Nike-Store-ECommerce.git",
+    site: "//modern-nike-store-e-commerce.vercel.app/",
+    images:
+      "https://user-images.githubusercontent.com/46317379/252176762-fad2d217-a718-481d-a72f-a5b11039fcab.png",
+  },
 ];
