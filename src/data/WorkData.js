@@ -42,25 +42,5 @@ export const WorkData = [
     gitlink: "//github.com/Ameerusa86/rock-paper-scissors-master.git",
     site: "//rock-paper-scissors2023.netlify.app/",
   },
-  // {
-  //   title: "Onixx Digital",
-  //   desc: "A website for a company that helps with project and site management for the best optimization",
-  //   tech: ["React.js", "Styled-Components"],
-  //   gitlink: "//www.github.com/Pappyjay23/megapod",
-  //   site: "//onixx-digital.netlify.app/",
-  // },
-  // {
-  //   title: "Megapod",
-  //   desc: "A site hosting podcasts",
-  //   tech: ["React.js", "Styled-Components", "Css"],
-  //   gitlink: "//www.github.com/Pappyjay23/megapod",
-  //   site: "//megapod-vp.netlify.app",
-  // },
-  // {
-  //   title: "Lux Fitness",
-  //   desc: "A web app depicting a gym, it's features and plans",
-  //   tech: ["Html", "Css", "JS", "GSAP"],
-  //   gitlink: "//www.github.com/Pappyjay23/Lux-Fitness-Gym",
-  //   site: "//lux-fitness-gym.netlify.app",
-  // },
+
 ];
