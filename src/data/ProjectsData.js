@@ -98,4 +98,13 @@ export const ProjectsData = [
     images:
       "https://private-user-images.githubusercontent.com/46317379/261810071-75aafd21-cd7a-4e16-a0a8-114da69c0ae8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTI0NjQ4MjQsIm5iZiI6MTY5MjQ2NDUyNCwicGF0aCI6Ii80NjMxNzM3OS8yNjE4MTAwNzEtNzVhYWZkMjEtY2Q3YS00ZTE2LWEwYTgtMTE0ZGE2OWMwYWU4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwODE5VDE3MDIwNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg0OTBhODYyNTcyNTNkYTE2NTYzYjlhMzMxMDQxMDE0NDM1YTBiMWNjNmIyMmZhZjljMDEyMjhhZDYyODY4ZDYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.wfLNaum-HEeQluBoDmLD5c8vA6bgayD3MXOuaUh8FpA",
   },
+  {
+    title: "Car Rental Agency",
+    desc: "Car Rental Agency website using NextJS, TailwindCss, Framer Motion",
+    tech: ["NextJS", "Tailwind CSS", "Framer Motion"],
+    gitlink: "//github.com/Ameerusa86/Car-Rental-Agency.git",
+    site: "//car-rental-agency-five.vercel.app/",
+    images:
+      "https://user-images.githubusercontent.com/46317379/265558378-9651d3c1-9db4-4077-8e82-15704358333e.png",
+  },
 ];
