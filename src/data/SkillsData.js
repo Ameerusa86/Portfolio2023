@@ -7,12 +7,11 @@ import {
   FaReact,
   FaSass,
   FaYarn,
-  // FaFigma,
+  FaAngular,
 } from "react-icons/fa";
 import { DiJavascript1 } from "react-icons/di";
 import { VscJson } from "react-icons/vsc";
 import {
-  // SiAdobephotoshop,
   SiTailwindcss,
   SiNextdotjs,
   SiTypescript,
@@ -49,6 +48,10 @@ export const SkillsData = [
     icon: <SiNextdotjs />,
   },
   {
+    name: "Angular",
+    icon: <FaAngular />,
+  },
+  {
     name: "Redux",
     icon: <SiRedux />,
   },
@@ -56,10 +59,10 @@ export const SkillsData = [
     name: "Firebase",
     icon: <SiFirebase />,
   },
-  {
-    name: "JSON",
-    icon: <VscJson />,
-  },
+  // {
+  //   name: "JSON",
+  //   icon: <VscJson />,
+  // },
   {
     name: "Bootstrap",
     icon: <FaBootstrap />,
@@ -88,20 +91,12 @@ export const SkillsData = [
     name: "Git",
     icon: <FaGithub />,
   },
-  {
-    name: "Npm",
-    icon: <FaNpm />,
-  },
-  {
-    name: "Yarn",
-    icon: <FaYarn />,
-  },
   // {
-  // 	name: "Figma",
-  // 	icon: <FaFigma />,
+  //   name: "Npm",
+  //   icon: <FaNpm />,
   // },
   // {
-  // 	name: "Photoshop",
-  // 	icon: <SiAdobephotoshop />,
+  //   name: "Yarn",
+  //   icon: <FaYarn />,
   // },
 ];
