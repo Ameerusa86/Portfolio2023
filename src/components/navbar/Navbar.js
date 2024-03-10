@@ -62,7 +62,7 @@ const Navbar = ({ nav, handleNav }) => {
               to="home"
               className="profile-name"
             >
-              AMEER ALHASNAWI
+              AMEER HASAN
             </Link>
             <NavLinks handleNav={handleNav} />
           </div>
