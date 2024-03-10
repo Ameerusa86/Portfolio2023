@@ -3,14 +3,12 @@ import {
   FaCss3Alt,
   FaGithub,
   FaHtml5,
-  FaNpm,
   FaReact,
   FaSass,
-  FaYarn,
   FaAngular,
+  FaPython,
 } from "react-icons/fa";
 import { DiJavascript1 } from "react-icons/di";
-import { VscJson } from "react-icons/vsc";
 import {
   SiTailwindcss,
   SiNextdotjs,
@@ -23,6 +21,10 @@ import {
 } from "react-icons/si";
 
 export const SkillsData = [
+  {
+    name: "Python",
+    icon: <FaPython />,
+  },
   {
     name: "HTML",
     icon: <FaHtml5 />,
